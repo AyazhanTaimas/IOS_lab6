@@ -38,3 +38,6 @@ No map view is included, though the infrastructure (mapURL) exists.
 
 **Third-Party Libraries Used**
 None
+
+**Link to video**
+https://drive.google.com/file/d/16KPSuF18GTYB5wLIKA0iBiVBROxd997T/view?usp=sharing
